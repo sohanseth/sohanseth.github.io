@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Keil | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/a.-keil/</link>
+      <atom:link href="https://sohanseth.github.io/author/a.-keil/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Keil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Keil</title>
+      <link>https://sohanseth.github.io/author/a.-keil/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying Cognitive State From EEG Using Dependence Measures</title>
+      <link>https://sohanseth.github.io/publication/fadlallah-quantifying-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/fadlallah-quantifying-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Association Framework to Analyze Dependence Structure in Time Series</title>
+      <link>https://sohanseth.github.io/publication/fadlallah-association-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/fadlallah-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust EEG preprocessing for dependence-based condition discrimination</title>
+      <link>https://sohanseth.github.io/publication/fadlallah-robust-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/fadlallah-robust-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of instantaneous power in the EEG to assess brain connectivity with high temporal resolution</title>
+      <link>https://sohanseth.github.io/publication/jungphil-kwon-estimation-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/jungphil-kwon-estimation-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

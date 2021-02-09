@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Shawe-Taylor | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/john-shawe-taylor/</link>
+      <atom:link href="https://sohanseth.github.io/author/john-shawe-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Shawe-Taylor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>John Shawe-Taylor</title>
+      <link>https://sohanseth.github.io/author/john-shawe-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Retrieval of Experiments by Efficient Comparison of Marginal Likelihoods</title>
+      <link>https://sohanseth.github.io/publication/loo-retrieval-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/loo-retrieval-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

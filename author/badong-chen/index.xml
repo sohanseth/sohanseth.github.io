@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Badong Chen | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/badong-chen/</link>
+      <atom:link href="https://sohanseth.github.io/author/badong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Badong Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Badong Chen</title>
+      <link>https://sohanseth.github.io/author/badong-chen/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Inverse Control of Neural Spatiotemporal Spike Patterns With a Reproducing Kernel Hilbert Space (RKHS) Framework</title>
+      <link>https://sohanseth.github.io/publication/li-adaptive-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/li-adaptive-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online efficient learning with quantized KLMS and L1 regularization</title>
+      <link>https://sohanseth.github.io/publication/chen-online-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/chen-online-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

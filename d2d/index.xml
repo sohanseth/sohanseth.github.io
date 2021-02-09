@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D2ds | Sohan Seth</title>
+    <link>https://sohanseth.github.io/d2d/</link>
+      <atom:link href="https://sohanseth.github.io/d2d/index.xml" rel="self" type="application/rss+xml" />
+    <description>D2ds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D2ds</title>
+      <link>https://sohanseth.github.io/d2d/</link>
+    </image>
+    
+    <item>
+      <title>IMPACT-ACE: Gold Panning in the Under-used Critical Care Data Stream</title>
+      <link>https://sohanseth.github.io/d2d/lo/</link>
+      <pubDate>Fri, 06 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/lo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-D printing of Ordered Structures: Applications in Chemistry and Engineering</title>
+      <link>https://sohanseth.github.io/d2d/demartino/</link>
+      <pubDate>Fri, 24 Jan 2020 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/demartino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICU-HEART: Using Routine Healthcare Data to Improve Outcomes in ICU</title>
+      <link>https://sohanseth.github.io/d2d/docherty/</link>
+      <pubDate>Fri, 22 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/docherty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Deprivation in Rural Areas from Earth Observation Data</title>
+      <link>https://sohanseth.github.io/d2d/watmough/</link>
+      <pubDate>Fri, 11 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/watmough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Sleep-deprivation at Synchrotrons Advances Plate Tectonics</title>
+      <link>https://sohanseth.github.io/d2d/fusseis/</link>
+      <pubDate>Fri, 17 May 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/fusseis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Industrial Ecology</title>
+      <link>https://sohanseth.github.io/d2d/myers/</link>
+      <pubDate>Fri, 22 Mar 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/myers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Crystal to Adsorption Column: Challenges in Multiscale Computational Screening of Materials for Adsorption Separation Processes</title>
+      <link>https://sohanseth.github.io/d2d/sarkisov/</link>
+      <pubDate>Fri, 08 Mar 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/sarkisov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

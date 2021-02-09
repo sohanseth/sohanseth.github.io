@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. C. Principe | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/j.-c.-principe/</link>
+      <atom:link href="https://sohanseth.github.io/author/j.-c.-principe/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. C. Principe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. C. Principe</title>
+      <link>https://sohanseth.github.io/author/j.-c.-principe/</link>
+    </image>
+    
+    <item>
+      <title>An Association Framework to Analyze Dependence Structure in Time Series</title>
+      <link>https://sohanseth.github.io/publication/fadlallah-association-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/fadlallah-association-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Granger Non-Causality Using Nonparametric Measure of Conditional Independence</title>
+      <link>https://sohanseth.github.io/publication/seth-assessing-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/seth-assessing-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust EEG preprocessing for dependence-based condition discrimination</title>
+      <link>https://sohanseth.github.io/publication/fadlallah-robust-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/fadlallah-robust-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

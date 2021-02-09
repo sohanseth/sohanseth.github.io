@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annemarie Docherty | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/annemarie-docherty/</link>
+      <atom:link href="https://sohanseth.github.io/author/annemarie-docherty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annemarie Docherty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Annemarie Docherty</title>
+      <link>https://sohanseth.github.io/author/annemarie-docherty/</link>
+    </image>
+    
+    <item>
+      <title>ICU-HEART: Using Routine Healthcare Data to Improve Outcomes in ICU</title>
+      <link>https://sohanseth.github.io/d2d/docherty/</link>
+      <pubDate>Fri, 22 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/docherty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

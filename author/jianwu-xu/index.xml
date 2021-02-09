@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianwu Xu | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/jianwu-xu/</link>
+      <atom:link href="https://sohanseth.github.io/author/jianwu-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianwu Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jianwu Xu</title>
+      <link>https://sohanseth.github.io/author/jianwu-xu/</link>
+    </image>
+    
+    <item>
+      <title>A test of independence based on a generalized correlation function</title>
+      <link>https://sohanseth.github.io/publication/rao-test-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/rao-test-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correntropy for Random Variables: Properties and Applications in Statistical Inference</title>
+      <link>https://sohanseth.github.io/publication/principe-correntropy-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/principe-correntropy-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

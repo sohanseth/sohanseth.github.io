@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loulia K. Mati | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/loulia-k.-mati/</link>
+      <atom:link href="https://sohanseth.github.io/author/loulia-k.-mati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loulia K. Mati</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Loulia K. Mati</title>
+      <link>https://sohanseth.github.io/author/loulia-k.-mati/</link>
+    </image>
+    
+    <item>
+      <title>Endoscopic sensing of pH in the distal lung (Conference Presentation)</title>
+      <link>https://sohanseth.github.io/publication/choudhury-endoscopic-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/choudhury-endoscopic-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

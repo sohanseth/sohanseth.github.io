@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sohan Seth</title>
+    <link>https://sohanseth.github.io/project/</link>
+      <atom:link href="https://sohanseth.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 19:44:32 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://sohanseth.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning for Spectroscopy</title>
+      <link>https://sohanseth.github.io/project/prism/</link>
+      <pubDate>Sun, 07 Feb 2021 19:44:32 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/prism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Descriptors for Materials Machine Learning</title>
+      <link>https://sohanseth.github.io/project/crystal/</link>
+      <pubDate>Sun, 07 Feb 2021 19:44:21 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/crystal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child Poverty and Access to Services in Uganda</title>
+      <link>https://sohanseth.github.io/project/cpa2s/</link>
+      <pubDate>Sun, 07 Feb 2021 01:18:27 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/cpa2s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4D quantification of micro-scale feedbacks in dehydrating, deforming rocks</title>
+      <link>https://sohanseth.github.io/project/midgard/</link>
+      <pubDate>Sun, 07 Feb 2021 01:17:41 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/midgard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Census-Independent Population Density Estimation in Mozambique</title>
+      <link>https://sohanseth.github.io/project/pep/</link>
+      <pubDate>Sun, 07 Feb 2021 01:17:32 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/pep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Care Research Center</title>
+      <link>https://sohanseth.github.io/project/acrc/</link>
+      <pubDate>Sat, 06 Feb 2021 21:20:19 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/acrc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

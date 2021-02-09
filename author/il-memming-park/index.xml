@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Il Memming Park | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/il-memming-park/</link>
+      <atom:link href="https://sohanseth.github.io/author/il-memming-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Il Memming Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Il Memming Park</title>
+      <link>https://sohanseth.github.io/author/il-memming-park/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic kernel least mean squares algorithms</title>
+      <link>https://sohanseth.github.io/publication/park-probabilistic-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/park-probabilistic-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Inverse Control of Neural Spatiotemporal Spike Patterns With a Reproducing Kernel Hilbert Space (RKHS) Framework</title>
+      <link>https://sohanseth.github.io/publication/li-adaptive-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/li-adaptive-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Methods on Spike Train Space for Neuroscience: A Tutorial</title>
+      <link>https://sohanseth.github.io/publication/park-kernel-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/park-kernel-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strictly Positive-Definite Spike Train Kernels for Point-Process Divergences</title>
+      <link>https://sohanseth.github.io/publication/park-strictly-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/park-strictly-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Connectivity Dynamics Among Cortical Neurons: A Dependence Analysis</title>
+      <link>https://sohanseth.github.io/publication/li-functional-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/li-functional-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive decoder from spike trains to micro-stimulation using kernel least-mean-squares (KLMS)</title>
+      <link>https://sohanseth.github.io/publication/lin-li-adaptive-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/lin-li-adaptive-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

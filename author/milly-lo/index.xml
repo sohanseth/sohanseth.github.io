@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milly Lo | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/milly-lo/</link>
+      <atom:link href="https://sohanseth.github.io/author/milly-lo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Milly Lo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Milly Lo</title>
+      <link>https://sohanseth.github.io/author/milly-lo/</link>
+    </image>
+    
+    <item>
+      <title>IMPACT-ACE: Gold Panning in the Under-used Critical Care Data Stream</title>
+      <link>https://sohanseth.github.io/d2d/lo/</link>
+      <pubDate>Fri, 06 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/lo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
