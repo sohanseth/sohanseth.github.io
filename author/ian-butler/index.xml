@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Butler | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/ian-butler/</link>
+      <atom:link href="https://sohanseth.github.io/author/ian-butler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Butler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ian Butler</title>
+      <link>https://sohanseth.github.io/author/ian-butler/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation of Micro-tomography Images for Understanding Deformation of Rocks</title>
+      <link>https://sohanseth.github.io/project/midgard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/midgard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

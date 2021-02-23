@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce Guthrie | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/bruce-guthrie/</link>
+      <atom:link href="https://sohanseth.github.io/author/bruce-guthrie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruce Guthrie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bruce Guthrie</title>
+      <link>https://sohanseth.github.io/author/bruce-guthrie/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven Insight and Prediction in Later Life Care</title>
+      <link>https://sohanseth.github.io/project/acrc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/project/acrc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
