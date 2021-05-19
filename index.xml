@@ -5,12 +5,44 @@
     <link>https://sohanseth.github.io/</link>
       <atom:link href="https://sohanseth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sohan Seth</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 23:44:22 +0100</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sohan Seth</title>
       <link>https://sohanseth.github.io/</link>
     </image>
+    
+    <item>
+      <title>Understanding Clusters of Multimorbidity using Machine Learning</title>
+      <link>https://sohanseth.github.io/project/cisc/</link>
+      <pubDate>Tue, 18 May 2021 23:44:22 +0100</pubDate>
+      <guid>https://sohanseth.github.io/project/cisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomic Insights From a Grain of Salt</title>
+      <link>https://sohanseth.github.io/d2d/cumby/</link>
+      <pubDate>Fri, 26 Mar 2021 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/cumby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Population Density from Remote Sensing and Microcensus</title>
+      <link>https://sohanseth.github.io/talk/anc2021/</link>
+      <pubDate>Tue, 26 Jan 2021 11:00:25 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/anc2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Sustainable Census-Independent Population Estimation in Mozambique</title>
+      <link>https://sohanseth.github.io/publication/neal-towards-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/neal-towards-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Child Poverty and Access to Services in Uganda</title>
@@ -69,6 +101,14 @@
     </item>
     
     <item>
+      <title>Archetypal Distribution</title>
+      <link>https://sohanseth.github.io/talk/anc2020/</link>
+      <pubDate>Tue, 21 Jan 2020 11:00:46 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/anc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ICU-HEART: Using Routine Healthcare Data to Improve Outcomes in ICU</title>
       <link>https://sohanseth.github.io/d2d/docherty/</link>
       <pubDate>Fri, 22 Nov 2019 13:00:00 +0000</pubDate>
@@ -85,10 +125,34 @@
     </item>
     
     <item>
+      <title>Probabilistic Archetypal Analysis</title>
+      <link>https://sohanseth.github.io/talk/cladag2019/</link>
+      <pubDate>Wed, 11 Sep 2019 10:00:27 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/cladag2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Criticism in Latent Space</title>
+      <link>https://sohanseth.github.io/talk/napoli2019/</link>
+      <pubDate>Tue, 10 Sep 2019 10:00:54 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/napoli2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model Criticism in Latent Space</title>
       <link>https://sohanseth.github.io/publication/seth-model-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://sohanseth.github.io/publication/seth-model-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can We Assess Lung Nodule by Just Looking at It?</title>
+      <link>https://sohanseth.github.io/talk/boston2019/</link>
+      <pubDate>Wed, 21 Aug 2019 11:00:28 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/boston2019/</guid>
       <description></description>
     </item>
     
@@ -125,10 +189,34 @@
     </item>
     
     <item>
+      <title>Stratification of Fibrotic Lung Disease: Integration of Molecular Endotyping and Quantitative CT via Machine Learning</title>
+      <link>https://sohanseth.github.io/publication/przybylski-stratification-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/przybylski-stratification-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Bacterial and Cellular Load in FCFM Imaging</title>
+      <link>https://sohanseth.github.io/talk/cmi2018/</link>
+      <pubDate>Mon, 24 Sep 2018 12:00:15 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/cmi2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Bacterial and Cellular Load in FCFM Imaging</title>
       <link>https://sohanseth.github.io/publication/seth-estimating-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://sohanseth.github.io/publication/seth-estimating-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Bacterial Load in FCFM Imaging</title>
+      <link>https://sohanseth.github.io/talk/miua2017/</link>
+      <pubDate>Thu, 13 Jul 2017 13:30:31 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/miua2017/</guid>
       <description></description>
     </item>
     
@@ -165,6 +253,14 @@
     </item>
     
     <item>
+      <title>Archetypal Analysis for Nominal Observations</title>
+      <link>https://sohanseth.github.io/publication/seth-archetypal-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/seth-archetypal-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling-based experiment retrieval: a case study with gene expression clustering</title>
       <link>https://sohanseth.github.io/publication/blomstedt-modelling-based-2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
@@ -177,6 +273,30 @@
       <link>https://sohanseth.github.io/publication/seth-probabilistic-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://sohanseth.github.io/publication/seth-probabilistic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Experiments by Efficient Comparison of Marginal Likelihood</title>
+      <link>https://sohanseth.github.io/talk/iconip2014/</link>
+      <pubDate>Tue, 04 Nov 2014 09:00:12 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/iconip2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Experiments by Efficient Comparison of Marginal Likelihoods</title>
+      <link>https://sohanseth.github.io/talk/lsoldm2014/</link>
+      <pubDate>Thu, 11 Sep 2014 17:00:10 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/lsoldm2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Analysis of Whole-genome Shotgun Sequences</title>
+      <link>https://sohanseth.github.io/talk/mlsb2014/</link>
+      <pubDate>Sat, 06 Sep 2014 16:30:15 +0100</pubDate>
+      <guid>https://sohanseth.github.io/talk/mlsb2014/</guid>
       <description></description>
     </item>
     
@@ -201,6 +321,14 @@
       <link>https://sohanseth.github.io/publication/park-probabilistic-2014/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <guid>https://sohanseth.github.io/publication/park-probabilistic-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential analysis of whole-genome shotgun sequences</title>
+      <link>https://sohanseth.github.io/publication/seth-differential-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/seth-differential-2014/</guid>
       <description></description>
     </item>
     

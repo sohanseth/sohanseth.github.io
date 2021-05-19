@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mamadou Saliou Diallo | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/mamadou-saliou-diallo/</link>
+      <atom:link href="https://sohanseth.github.io/author/mamadou-saliou-diallo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mamadou Saliou Diallo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mamadou Saliou Diallo</title>
+      <link>https://sohanseth.github.io/author/mamadou-saliou-diallo/</link>
+    </image>
+    
+    <item>
+      <title>Towards Sustainable Census-Independent Population Estimation in Mozambique</title>
+      <link>https://sohanseth.github.io/publication/neal-towards-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/neal-towards-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

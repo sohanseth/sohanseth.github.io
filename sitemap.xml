@@ -3,32 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sohanseth.github.io/authors/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/project/cpa2s/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/author/gary-watmough/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sohanseth.github.io/project/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/author/sohan-seth/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-18T23:44:22+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://sohanseth.github.io/</loc>
+    <lastmod>2021-05-18T23:44:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/project/cisc/</loc>
+    <lastmod>2021-05-18T23:44:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/d2d/cumby/</loc>
+    <lastmod>2021-03-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/authors/</loc>
+    <lastmod>2021-03-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/d2d/</loc>
+    <lastmod>2021-03-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/james-cumby/</loc>
+    <lastmod>2021-03-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/anc2021/</loc>
+    <lastmod>2021-01-26T11:00:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/</loc>
+    <lastmod>2021-01-26T11:00:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication-type/1/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/gary-watmough/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/isaac-neal/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/mamadou-saliou-diallo/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication_types/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/sohan-seth/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication/neal-towards-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/project/cpa2s/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,16 +278,6 @@
   </url>
   
   <url>
-    <loc>https://sohanseth.github.io/publication_types/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/publication/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sohanseth.github.io/publication/millar-robust-2020/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -268,11 +318,6 @@
   </url>
   
   <url>
-    <loc>https://sohanseth.github.io/d2d/</loc>
-    <lastmod>2020-03-06T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sohanseth.github.io/d2d/lo/</loc>
     <lastmod>2020-03-06T13:00:00+00:00</lastmod>
   </url>
@@ -284,11 +329,6 @@
   
   <url>
     <loc>https://sohanseth.github.io/project/crystal/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/author/james-cumby/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,6 +358,11 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/talk/anc2020/</loc>
+    <lastmod>2020-01-21T11:00:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/author/annemarie-docherty/</loc>
     <lastmod>2019-11-22T13:00:00+00:00</lastmod>
   </url>
@@ -330,6 +375,16 @@
   <url>
     <loc>https://sohanseth.github.io/d2d/watmough/</loc>
     <lastmod>2019-10-11T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/cladag2019/</loc>
+    <lastmod>2019-09-11T10:00:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/napoli2019/</loc>
+    <lastmod>2019-09-10T10:00:54+01:00</lastmod>
   </url>
   
   <url>
@@ -378,6 +433,11 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/talk/boston2019/</loc>
+    <lastmod>2019-08-21T11:00:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/author/florian-fusseis/</loc>
     <lastmod>2019-05-17T13:00:00+00:00</lastmod>
   </url>
@@ -413,6 +473,21 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/author/alexander-przybylski/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/azin-salimian/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/aziz-sheikh/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/author/bethany-mills/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -433,6 +508,11 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/author/edwin-van-beek/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/publication/choudhury-endoscopic-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -443,12 +523,22 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/author/giorgos-papanastasiou/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/author/ioulia-k-mati/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sohanseth.github.io/author/james-m-stone/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/jeremy-walker/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,12 +558,22 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/author/nik-hirani/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/author/robert-r-thomson/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sohanseth.github.io/author/sarah-mcaughtrie/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication/przybylski-stratification-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -490,6 +590,11 @@
   <url>
     <loc>https://sohanseth.github.io/author/tushar-r-choudhary/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/cmi2018/</loc>
+    <lastmod>2018-09-24T12:00:15+01:00</lastmod>
   </url>
   
   <url>
@@ -538,8 +643,8 @@
   </url>
   
   <url>
-    <loc>https://sohanseth.github.io/publication-type/1/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>https://sohanseth.github.io/talk/miua2017/</loc>
+    <lastmod>2017-07-13T13:30:31+01:00</lastmod>
   </url>
   
   <url>
@@ -708,6 +813,16 @@
   </url>
   
   <url>
+    <loc>https://sohanseth.github.io/publication/seth-archetypal-2016/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/author/manuel-j.-a.-eugster/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sohanseth.github.io/publication/blomstedt-modelling-based-2016/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -748,11 +863,6 @@
   </url>
   
   <url>
-    <loc>https://sohanseth.github.io/author/manuel-j.-a.-eugster/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sohanseth.github.io/publication/seth-probabilistic-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -765,6 +875,21 @@
   <url>
     <loc>https://sohanseth.github.io/tag/visualization/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/iconip2014/</loc>
+    <lastmod>2014-11-04T09:00:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/lsoldm2014/</loc>
+    <lastmod>2014-09-11T17:00:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/talk/mlsb2014/</loc>
+    <lastmod>2014-09-06T16:30:15+01:00</lastmod>
   </url>
   
   <url>
@@ -814,6 +939,11 @@
   
   <url>
     <loc>https://sohanseth.github.io/publication-type/6/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohanseth.github.io/publication/seth-differential-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1230,10 +1360,6 @@
   </url>
   
   <url>
-    <loc>https://sohanseth.github.io/author/isaac-neal/</loc>
-  </url>
-  
-  <url>
     <loc>https://sohanseth.github.io/author/john-wheeler/</loc>
   </url>
   
@@ -1247,10 +1373,6 @@
   
   <url>
     <loc>https://sohanseth.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sohanseth.github.io/talk/</loc>
   </url>
   
   <url>

@@ -5,12 +5,20 @@
     <link>https://sohanseth.github.io/d2d/</link>
       <atom:link href="https://sohanseth.github.io/d2d/index.xml" rel="self" type="application/rss+xml" />
     <description>D2ds</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>D2ds</title>
       <link>https://sohanseth.github.io/d2d/</link>
     </image>
+    
+    <item>
+      <title>Atomic Insights From a Grain of Salt</title>
+      <link>https://sohanseth.github.io/d2d/cumby/</link>
+      <pubDate>Fri, 26 Mar 2021 13:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/d2d/cumby/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IMPACT-ACE: Gold Panning in the Under-used Critical Care Data Stream</title>
