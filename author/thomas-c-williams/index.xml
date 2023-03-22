@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas C Williams | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/thomas-c-williams/</link>
+      <atom:link href="https://sohanseth.github.io/author/thomas-c-williams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas C Williams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas C Williams</title>
+      <link>https://sohanseth.github.io/author/thomas-c-williams/</link>
+    </image>
+    
+    <item>
+      <title>Studying the Long-term Impact of COVID-19 in Kids (SLICK). Healthcare use and costs in children and young people following community-acquired SARS-CoV-2 infection: protocol for an observational study using linked primary and secondary routinely collected healthcare data from England, Scotland and Wales</title>
+      <link>https://sohanseth.github.io/publication/swann-studying-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/swann-studying-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

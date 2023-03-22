@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>András Kufcsák | Sohan Seth</title>
+    <title>Andras Kufcsak | Sohan Seth</title>
     <link>https://sohanseth.github.io/author/andras-kufcsak/</link>
       <atom:link href="https://sohanseth.github.io/author/andras-kufcsak/index.xml" rel="self" type="application/rss+xml" />
-    <description>András Kufcsák</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <description>Andras Kufcsak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>András Kufcsák</title>
+      <title>Andras Kufcsak</title>
       <link>https://sohanseth.github.io/author/andras-kufcsak/</link>
     </image>
+    
+    <item>
+      <title>Computational Fluorescence Suppression in Shifted Excitation Raman Spectroscopy</title>
+      <link>https://sohanseth.github.io/publication/jenkins-computational-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/jenkins-computational-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Spectral Temporal Modelling for a Time-Resolved Fluorescence Emission Spectrum</title>
+      <link>https://sohanseth.github.io/publication/adams-simultaneous-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/adams-simultaneous-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tri‐mode optical biopsy probe with fluorescence endomicroscopy, Raman spectroscopy, and time‐resolved fluorescence spectroscopy</title>

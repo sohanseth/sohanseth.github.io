@@ -5,12 +5,20 @@
     <link>https://sohanseth.github.io/author/james-m.-stone/</link>
       <atom:link href="https://sohanseth.github.io/author/james-m.-stone/index.xml" rel="self" type="application/rss+xml" />
     <description>James M. Stone</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>James M. Stone</title>
       <link>https://sohanseth.github.io/author/james-m.-stone/</link>
     </image>
+    
+    <item>
+      <title>Computational Fluorescence Suppression in Shifted Excitation Raman Spectroscopy</title>
+      <link>https://sohanseth.github.io/publication/jenkins-computational-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/jenkins-computational-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Endoscopic sensing of pH in the distal lung (Conference Presentation)</title>

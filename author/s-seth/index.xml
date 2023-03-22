@@ -5,12 +5,20 @@
     <link>https://sohanseth.github.io/author/s-seth/</link>
       <atom:link href="https://sohanseth.github.io/author/s-seth/index.xml" rel="self" type="application/rss+xml" />
     <description>S Seth</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>S Seth</title>
       <link>https://sohanseth.github.io/author/s-seth/</link>
     </image>
+    
+    <item>
+      <title>616 Addressing Challenges to Enable Better Use of Routinely Collected Clinical Photographs: Evaluating the Largest Cleft Dataset for Machine Learning Analysis</title>
+      <link>https://sohanseth.github.io/publication/turnbull-616-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/turnbull-616-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neuronal functional connectivity dynamics in cortex: An MSC-based analysis</title>

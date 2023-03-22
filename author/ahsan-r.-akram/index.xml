@@ -5,12 +5,20 @@
     <link>https://sohanseth.github.io/author/ahsan-r.-akram/</link>
       <atom:link href="https://sohanseth.github.io/author/ahsan-r.-akram/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahsan R. Akram</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ahsan R. Akram</title>
       <link>https://sohanseth.github.io/author/ahsan-r.-akram/</link>
     </image>
+    
+    <item>
+      <title>Computational Fluorescence Suppression in Shifted Excitation Raman Spectroscopy</title>
+      <link>https://sohanseth.github.io/publication/jenkins-computational-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/jenkins-computational-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Bacterial and Cellular Load in FCFM Imaging</title>

@@ -5,12 +5,36 @@
     <link>https://sohanseth.github.io/publication/</link>
       <atom:link href="https://sohanseth.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://sohanseth.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Computational Fluorescence Suppression in Shifted Excitation Raman Spectroscopy</title>
+      <link>https://sohanseth.github.io/publication/jenkins-computational-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/jenkins-computational-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouped representation of interatomic distances as a similarity measure for crystal structures</title>
+      <link>https://sohanseth.github.io/publication/zhang-grouped-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/zhang-grouped-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Spectral Temporal Modelling for a Time-Resolved Fluorescence Emission Spectrum</title>
+      <link>https://sohanseth.github.io/publication/adams-simultaneous-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/adams-simultaneous-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Census-independent population estimation using representation learning</title>
@@ -37,6 +61,14 @@
     </item>
     
     <item>
+      <title>Studying the Long-term Impact of COVID-19 in Kids (SLICK). Healthcare use and costs in children and young people following community-acquired SARS-CoV-2 infection: protocol for an observational study using linked primary and secondary routinely collected healthcare data from England, Scotland and Wales</title>
+      <link>https://sohanseth.github.io/publication/swann-studying-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/swann-studying-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coronavirus disease 2019 subphenotypes and differential treatment response to convalescent plasma in critically ill adults: secondary analyses of a randomized clinical trial</title>
       <link>https://sohanseth.github.io/publication/fish-coronavirus-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -49,6 +81,14 @@
       <link>https://sohanseth.github.io/publication/wood-trimode-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://sohanseth.github.io/publication/wood-trimode-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>616 Addressing Challenges to Enable Better Use of Routinely Collected Clinical Photographs: Evaluating the Largest Cleft Dataset for Machine Learning Analysis</title>
+      <link>https://sohanseth.github.io/publication/turnbull-616-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/turnbull-616-2022/</guid>
       <description></description>
     </item>
     

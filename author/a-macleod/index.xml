@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Macleod | Sohan Seth</title>
+    <link>https://sohanseth.github.io/author/a-macleod/</link>
+      <atom:link href="https://sohanseth.github.io/author/a-macleod/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Macleod</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Macleod</title>
+      <link>https://sohanseth.github.io/author/a-macleod/</link>
+    </image>
+    
+    <item>
+      <title>616 Addressing Challenges to Enable Better Use of Routinely Collected Clinical Photographs: Evaluating the Largest Cleft Dataset for Machine Learning Analysis</title>
+      <link>https://sohanseth.github.io/publication/turnbull-616-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/turnbull-616-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
