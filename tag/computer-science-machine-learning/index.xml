@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Machine Learning | Sohan Seth</title>
+    <link>https://sohanseth.github.io/tag/computer-science-machine-learning/</link>
+      <atom:link href="https://sohanseth.github.io/tag/computer-science-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sohanseth.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computer Science - Machine Learning</title>
+      <link>https://sohanseth.github.io/tag/computer-science-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Census-Independent Population Estimation using Representation Learning</title>
+      <link>https://sohanseth.github.io/publication/neal-census-independent-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://sohanseth.github.io/publication/neal-census-independent-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
